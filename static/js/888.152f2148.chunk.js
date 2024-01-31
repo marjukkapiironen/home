@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkvara=self.webpackChunkvara||[]).push([[888],{3888:(e,a,r)=>{r.r(a),r.d(a,{default:()=>k});var s=r(1337),u=r(6108),b=r(1673),c=r(4946);const k={...{renderer:r(5978).b,...b.s,...c.E},...s.o,...u.b}}}]);
-//# sourceMappingURL=888.152f2148.chunk.js.map
